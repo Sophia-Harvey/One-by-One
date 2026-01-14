@@ -46,3 +46,4 @@ This repository documents the *design process, technical decisions, and lessons 
 
 ## Project Status
 The initial version of the website was completed in April 2024. Ongoing maintenance and updates were later transitioned to another developer while I returned to full-time coursework.
+[View the first iteration here](https://drive.google.com/file/d/1kBFQvsPmFXC-v7BB8LDCw-hkni8eAtkS/view?usp=drive_link)
